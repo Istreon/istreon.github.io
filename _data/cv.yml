@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: Université de Bretagne Occidentale
-        location: Brest 29820, France
+        location: Brest, France
         url: https://theses.fr/284186295
         area: Computer science
         studyType: PhD
@@ -35,7 +35,7 @@ cv:
           - Lab-STICC, Interaction, INUIT
 
       - institution: Université de Bretagne Occidentale
-        location: Brest 29820, France
+        location: Brest, France
         url: https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-systemes-interactifs-intelligents-et-autonomes-INRBVLH0.html
         area: Computer science
         studyType: Master's degree
@@ -47,7 +47,7 @@ cv:
 
       
       - institution: Université de Bretagne Occidentale
-        location: Brest 29820, France
+        location: Brest, France
         url: https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/licence-XA/licence-mention-informatique-INR98WV8/parcours-informatique-fondements-et-applications-ITK22ERA.html
         area: Computer science
         studyType: Bachelor's degree
@@ -57,7 +57,7 @@ cv:
           - With highest honours
 
       - institution: Lycée la Pérouze-Kérichen
-        location: Brest 29820, France
+        location: Brest, France
         area: science
         studyType: A level
         date: 2016
@@ -67,7 +67,7 @@ cv:
     Experience:
       - company: IMT Atlantique
         position: R&D Engineer
-        location: Plouzané 29280, France
+        location: Plouzané, France
         start_date: 2024
         end_date: Present
         summary: Development of an Augmented Reality application designed for real-time visual hand replacement, and other applications for conducting experiments. Also responsible for the CEXI-HA experimental platform.
@@ -76,7 +76,7 @@ cv:
 
       - company: Université de Bretagne Occidentale
         position: PhD student
-        location: Brest 29820, France
+        location: Brest, France
         start_date: 2021
         end_date: 2024
         summary: Augmented Reality and Tangible User Interface to Supervise and Interact with robot Swarms
@@ -85,38 +85,43 @@ cv:
 
       - company: IMT Atlantique
         position: R&D Engineer
-        location: Plouzané 29280, France
-        date : 2021 - 2 months
+        location: Plouzané, France
+        date : 2021
         summary: DDevelopment of an Augmented Reality application for (remote) monitoring of a user of a virtual hive VR application, using an Hololens 2.
         highlights:
           - Lab-STICC, Interaction, INUIT
+          - 2 months duration
 
       - company: IMT Atlantique
         position: Research intern
         location: Plouzané 29280, France
-        date : 2021 - 5 months
+        date : 2021
         summary: Study of the benefits of tangible interactions in VR, by implementing an immersive simulation of a virtual beehive using a real beehive.
         highlights:
           - Lab-STICC, Interaction, INUIT
+          - 5 months duration
 
       - company: IMT Atlantique
         position: Intern in computer science
         location: Plouzané 29280, France
-        date : 2020 - 3 months
+        date : 2020
         summary: Implementation of tangible interactions in VR with a real hive, using Unity and an Optitrack system.
         highlights:
           - Lab-STICC, Interaction, INUIT
+          - 3 months duration
 
       - company: Vehco
         position: Intern in computer science
         location: Brest 29820, France
-        date : 2019 - 2 months
+        date : 2019
         summary: Upgrading a tool used by the support team and adding new functionalities.
+        highlights:
+          - 2 months duration
 
     Volunteer:
       - company: Brest AMHE
         position: Co-president and instructor
-        location: Plouzané 29280, France
+        location: Plouzané, France
         start_date: 2022
         end_date: 2025
         summary: Member of the association since 2020. Co-president and instructor since 2022, responsible for the association's life and offering long sword lessons.
@@ -170,7 +175,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: French
         summary: "Native speaker"
 
       - name: English
