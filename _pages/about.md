@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: R&D Engineer at <a href='https://www.imt-atlantique.fr/en'>IMT Atlantique</a> — INUIT team, Lab-STICC
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Lab-STICC, IMT Atlantique</p>
+    <p>Plouzané, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an R&D engineer at [IMT Atlantique](https://www.imt-atlantique.fr/en), within the INUIT team of Lab-STICC. I develop applications and development tools for the CEXI-HA experimental platform, supporting the team's research on immersive interaction with complex systems — from augmented and virtual reality applications, such as real-time visual hand replacement, to the tooling that lets other researchers run their own experiments on the platform.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a PhD in Computer Science (2024) from Université de Bretagne Occidentale, where I studied self-organisation mechanisms in robot swarms, and how humans perceive and understand swarm fragmentation — combining augmented reality, tangible interfaces, and visualisation to help operators supervise and interact with robot swarms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie more broadly in immersive interaction techniques — augmented and virtual reality, visualisation — for perceiving and interacting with complex, dynamic systems, whether that's the robot swarms I studied during my PhD or the wider range of systems now explored by the INUIT team.
+
+Before my PhD, I worked on tangible interactions in virtual reality, including immersive simulations of a virtual beehive built around a real hive and motion-capture hardware. I hold a Master's degree in Intelligent, Interactive and Autonomous Systems and a Bachelor's degree in Computer Science, both from Université de Bretagne Occidentale, with honours.
