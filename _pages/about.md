@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: R&D Engineer at <a href='https://www.imt-atlantique.fr/en'>IMT Atlantique</a> — INUIT team, Lab-STICC
+subtitle: R&D Engineer at <a href='https://www.imt-atlantique.fr/en'>IMT Atlantique</a> — <a href='https://labsticc.fr/fr/equipes/inuit'>INUIT team</a>, Lab-STICC
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an R&D engineer at [IMT Atlantique](https://www.imt-atlantique.fr/en), within the INUIT team of Lab-STICC. I develop applications and development tools for the CEXI-HA experimental platform, supporting the team's research on immersive interaction with complex systems — from augmented and virtual reality applications, such as real-time visual hand replacement, to the tooling that lets other researchers run their own experiments on the platform.
+I am an R&D engineer at [IMT Atlantique](https://www.imt-atlantique.fr/en), within the [INUIT team](https://labsticc.fr/fr/equipes/inuit) of Lab-STICC. I develop applications and development tools for the [CEXI-HA](https://www.imt-atlantique.fr/fr/recherche-innovation/collaborer/plateforme/cexi-ha) experimental platform, supporting the team's research on immersive interaction with complex systems — from augmented and virtual reality applications, such as real-time visual hand replacement, to the tooling that lets other researchers run their own experiments on the platform.
 
 I hold a PhD in Computer Science (2024) from Université de Bretagne Occidentale, where I studied self-organisation mechanisms in robot swarms, and how humans perceive and understand swarm fragmentation — combining augmented reality, tangible interfaces, and visualisation to help operators supervise and interact with robot swarms.
 
